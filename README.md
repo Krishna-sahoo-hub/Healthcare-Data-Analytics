@@ -7,7 +7,8 @@ A comprehensive Healthcare Data Analytics project focused on analyzing patient r
 ### Dashboard Screenshot
 
 <p align="center">
-  <img src="Images/Healthcare_Dashboard.png" alt="Healthcare Dashboard" width="1000">
+ <img width="797" height="609" alt="Screenshot 2026-07-14 at 11 54 15 AM" src="https://github.com/user-attachments/assets/79ae44b0-b827-42ae-95c9-266e3c95f9b9" />
+
 </p>
 
 ---
