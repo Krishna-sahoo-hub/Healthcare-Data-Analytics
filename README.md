@@ -75,7 +75,6 @@ Generative AI was used to:
 ```
 Healthcare-Data-Analytics/
 │
-├── Images/
 ├── Report/
 └── README.md
 ```
